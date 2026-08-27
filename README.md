@@ -1,4 +1,11 @@
+markdown
 <div align="center">
+
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:3ECF8E&height=200&section=header&text=Pasek%20Adi%20Putra&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20UI%2FUX%20Enthusiast&descAlignY=55&descSize=18)
+
+</div>
+
+</br>
 
 # 👋 Hi, I'm Pasek Adi Putra
 
