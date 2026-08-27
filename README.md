@@ -49,7 +49,7 @@
 
 <div align="center">
 
-![Skills](https://skillicons.dev/icons?i=git,github,postman,figma,nginx,netlify,vercel&theme=dark)
+![Skills](https://skillicons.dev/icons?i=vscode,git,github,postman,figma,nginx,netlify,vercel&theme=dark)
 
 </div>
 
