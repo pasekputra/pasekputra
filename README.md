@@ -9,7 +9,7 @@
 ## 💫 About Me
 
 🔭 Currently focused on **Full-Stack Web Development & System Architecture**  
-🛠️ Building applications using **React, Laravel, Node.js, and Supabase**  
+🛠️ Building applications using **React, Laravel, and Supabase**  
 🎓 Studying **Information Systems**
 
 <br>
