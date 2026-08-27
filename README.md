@@ -20,8 +20,7 @@
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=social&logo=Facebook)](https://facebook.com/pasekadiputra)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=social&logo=Instagram)](https://instagram.com/pasekadiputraaa)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=social&logo=linkedin)](https://linkedin.com/in/pasekadiputra)
-[![Mastodon](https://img.shields.io/badge/Mastodon-%232B90D9.svg?style=social&logo=mastodon)](https://mastodon.social/@pasekadiputra)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=social&logo=linkedin)](https://www.linkedin.com/in/pasekadi-putra-0481bb339)
 [![Gmail](https://img.shields.io/badge/Email-D14836.svg?style=social&logo=gmail)](mailto:pasekadiputra05@gmail.com)
 
 </div>
