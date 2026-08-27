@@ -41,15 +41,17 @@
 
 <br>
 
+
+
 ## 📊 GitHub Stats
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.shion.dev/api?username=pasekputra&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false)
+![GitHub Stats](https://github-readme-stats.shion.dev/api?username=pasekputra&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false&text_color=ffffff&title_color=6366F1&icon_color=3ECF8E)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=pasekputra&theme=shadow_blue&hide_border=false)
+![GitHub Streak](https://streak-stats.demolab.com/?user=pasekputra&theme=shadow_blue&hide_border=false&text_color=ffffff&stroke=6366F1&ring=3ECF8E&fire=3ECF8E)
 
-![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=pasekputra&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=pasekputra&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false&layout=compact&text_color=ffffff&title_color=6366F1)
 
 </div>
 
