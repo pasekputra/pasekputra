@@ -27,13 +27,21 @@
 
 <br>
 
-## 💻 Tech Stack & Tools
+## 💻 Tech Stack
 
 <div align="center">
 
 ![Skills](https://skillicons.dev/icons?i=html,js,react,tailwind,bootstrap,vite&theme=dark)
 
 ![Skills](https://skillicons.dev/icons?i=php,laravel,fastapi,mysql,supabase&theme=dark)
+
+</div>
+
+<br>
+
+## 🛠️ Tools
+
+<div align="center">
 
 ![Skills](https://skillicons.dev/icons?i=git,github,postman,figma,apache,nginx,netlify,vercel&theme=dark)
 
