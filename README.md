@@ -16,14 +16,20 @@
 
 ## 🌐 Connect With Me
 
-<div align="center">
-
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=social&logo=Facebook)](https://facebook.com/pasekadiputra)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=social&logo=Instagram)](https://instagram.com/pasekadiputraaa)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=social&logo=linkedin)](https://www.linkedin.com/in/pasekadi-putra-0481bb339)
-[![Gmail](https://img.shields.io/badge/Email-D14836.svg?style=social&logo=gmail)](mailto:pasekadiputra05@gmail.com)
-
-</div>
+<p align="center">
+  <a href="https://linkedin.com/in/pasekadi-putra-0481bb339" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://instagram.com/pasekadiputraaa" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://facebook.com/pasekadiputra" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  <a href="mailto:pasekadiputra05@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</p>
 
 <br>
 
